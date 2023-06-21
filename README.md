@@ -1,2 +1,19 @@
-# python-lib-cli
-Simple template for a python librarie with automatic CLI commands generation
+# Installation
+
+## Fron github
+
+```bash
+pip install git+ssh://
+```
+
+## From local
+
+```bash
+pip install .
+```
+
+## From local to develop
+
+```bash
+pip install -e .
+```
